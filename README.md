@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋  I am Danny Morales ✨ </h1> 
 
 <p align="left">
-<a href="www.linkedin.com/in/dtatianamorales11" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="dtatianamorales11"/></a>
+<a href="[www.linkedin.com/in/dtatianamorales11](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="dtatianamorales11"/></a>
 <a href = "mailto:dannytatianamj@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@unsimpledev"  /></a>
   </p>
 <br>
